@@ -1,1 +1,1 @@
-Hi I'm Caleb (@Ambassadoor). I'm a Full Stack Developer, currently enrolled in the Nashville Software school.
+Hi I'm Caleb (@Ambassadoor). I'm a Full Stack Developer, and recent graduate of the Nashville Software school.
